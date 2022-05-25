@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mister-Sinister
-- 👀 I’m interested in Backed development
+- 👀 I’m interested in Backend development
 - 🌱 I’m currently learning django rest framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on ibrahim.adeshina.10@gamil.com
