@@ -48,7 +48,7 @@ I'm continuously learning and growing. My recent certifications include:
 
 ### 📫 Let's Connect!
 
-- **LinkedIn**: [https://www.linkedin.com/in/ibrahim-adeshina-669635112/](#)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/ibrahim-adeshina-669635112/)
 - **GitHub**: You’re already here!
 
 ---
